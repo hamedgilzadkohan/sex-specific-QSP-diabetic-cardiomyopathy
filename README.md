@@ -5,6 +5,8 @@
 **Manuscript:** *Sex-Specific Quantitative Systems Pharmacology Modeling of Diabetic Cardiomyopathy: Mitochondrial Biogenesis, Metabolic Dysregulation, and Coronary Microvascular Dysfunction Across the Hormonal Lifespan*  
 **Status:** Under peer review (journal name and DOI will be added upon acceptance)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19444327.svg)](https://doi.org/10.5281/zenodo.19444327)
+
 ---
 
 ## Overview
@@ -123,11 +125,18 @@ PMIDs, and confidence ratings for all kinetic and initial state parameters.
 
 This code accompanies a manuscript currently under peer review. A full 
 citation including journal name, volume, and DOI will be added upon 
-acceptance. Until then, please cite this repository directly:
+acceptance. Please cite this repository as:
 
 > Soheili M, Gilzad-Kohan H, Lotfi AS. *Sex-Specific QSP Model of 
-> Diabetic Cardiomyopathy* [Software]. 2026. GitHub. 
-> https://github.com/hamedgilzadkohan/sex-specific-QSP-diabetic-cardiomyopathy
+> Diabetic Cardiomyopathy* [Software]. Zenodo. 2026. 
+> https://doi.org/10.5281/zenodo.19444327
+
+---
+
+## Archive
+
+This repository is permanently archived on Zenodo:  
+**DOI: https://doi.org/10.5281/zenodo.19444327**
 
 ---
 
